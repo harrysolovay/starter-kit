@@ -1,5 +1,5 @@
 # starter-kit
-Used Gulp to create a clean development environment with easy production building. Browserify, Compass, CSS auto-prefixing (no need for pesky @include(...)), Browserify, Uglify, HTML &amp; CSS minification, development &amp; production local server configurations, image compression, and more!
+I used Gulp to create a clean development environment with easy production building. Browserify, Compass, CSS auto-prefixing (no need for pesky @include(...)), Browserify, Uglify, HTML &amp; CSS minification, development &amp; production local server configurations, image compression, and more!
 
 # CLI
 **"$ gulp"** will start the development server on http://localhost:8080 with livereload – all HTML, SCSS & JavaScript are being watched for file changes to trigger a reload  

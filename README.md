@@ -8,4 +8,4 @@ Used Gulp to create a clean development environment with easy production buildin
 **"$ gulp production:serve"** will load up the "dist" or production version in the browser  
 
 # Parting words
-Let me know what you think. This is how I've come to work on projects... I'm sure there are  practices that I should implement in this development environment. Please let me know what they are and what would be most valuable for me to look into ( [harrysolovay@gmail.com] | [harrysolovay.com] ). Thank you.
+Let me know what you think. This is how I've come to work on projects... I'm sure there are  practices that I should implement in this development environment. Please let me know what they are and what would be most valuable for me to look into ( [harrysolovay@gmail.com](harrysolovay@gmail.com) | [harrysolovay.com](harrysolovay.com) ). Thank you.
